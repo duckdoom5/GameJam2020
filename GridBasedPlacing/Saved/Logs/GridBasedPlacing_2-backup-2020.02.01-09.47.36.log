@@ -1,0 +1,2015 @@
+﻿Log file open, 02/01/20 10:38:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GridBasedPlacing
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.098286
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Game Development Software/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Engine.ini]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Engine.ini]
+[2020.02.01-09.38.03:052][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Engine.ini]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.01-09.38.03:052][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Engine.ini]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.01-09.38.03:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Engine.ini]
+[2020.02.01-09.38.03:053][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Engine.ini]
+[2020.02.01-09.38.03:069][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-09.38.03:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.01-09.38.03:070][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.01-09.38.03:070][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-09.38.03:070][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.01-09.38.03:073][  0]LogHAL: Display: Platform has ~ 32 GB [34312232960 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.01-09.38.03:073][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.01-09.38.03:073][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-09.38.03:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.01-09.38.03:074][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.01-09.38.03:075][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.01-09.38.03:075][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.01-09.38.03:075][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Config/Windows/Engine.ini]
+[2020.02.01-09.38.03:075][  0]LogInit: Computer: DESKTOP-9AARM2R
+[2020.02.01-09.38.03:075][  0]LogInit: User: GabrielJoyce
+[2020.02.01-09.38.03:075][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.01-09.38.03:075][  0]LogInit: High frequency timer resolution =2.648444 MHz
+[2020.02.01-09.38.03:075][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.02.01-09.38.03:075][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.01-09.38.03:075][  0]LogMemory: Process Physical Memory: 104.67 MB used, 104.67 MB peak
+[2020.02.01-09.38.03:075][  0]LogMemory: Process Virtual Memory: 100.61 MB used, 100.61 MB peak
+[2020.02.01-09.38.03:075][  0]LogMemory: Physical Memory: 7380.92 MB used,  25341.78 MB free, 32722.70 MB total
+[2020.02.01-09.38.03:075][  0]LogMemory: Virtual Memory: 5160.72 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.02.01-09.38.03:077][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.01-09.38.03:101][  0]LogInit: Using OS detected language (en-US).
+[2020.02.01-09.38.03:101][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.01-09.38.03:102][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.01-09.38.03:297][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.01-09.38.03:354][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.01-09.38.03:354][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.01-09.38.03:638][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-09.38.03:638][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.01-09.38.03:638][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.01-09.38.03:638][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.01-09.38.03:713][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.02.01-09.38.03:713][  0]LogD3D11RHI:       8079/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.01-09.38.03:715][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.01-09.38.03:715][  0]LogD3D11RHI:       0/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.01-09.38.03:715][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.01-09.38.03:723][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.01-09.38.03:723][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.01-09.38.03:723][  0]LogWindows: EnumDisplayDevices:
+[2020.02.01-09.38.03:723][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.02.01-09.38.03:723][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.02.01-09.38.03:724][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.01-09.38.03:724][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.01-09.38.03:724][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.01-09.38.03:724][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.02.01-09.38.03:724][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2020.02.01-09.38.03:724][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2020.02.01-09.38.03:724][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.02.01-09.38.03:776][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.01-09.38.03:776][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.01-09.38.03:849][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.01-09.38.04:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.01-09.38.04:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.01-09.38.04:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.01-09.38.04:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.01-09.38.04:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.01-09.38.04:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.01-09.38.04:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.01-09.38.04:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.01-09.38.04:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.01-09.38.04:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.01-09.38.04:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.01-09.38.04:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.01-09.38.04:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.01-09.38.04:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.01-09.38.04:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.01-09.38.04:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.01-09.38.04:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.01-09.38.04:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.01-09.38.04:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.01-09.38.04:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.01-09.38.04:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.01-09.38.04:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.01-09.38.04:391][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.01-09.38.04:394][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.01-09.38.04:420][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Intermediate/Shaders/WorkingDirectory/9936/).
+[2020.02.01-09.38.04:420][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gabriel Joyce/AppData/Local/Temp/UnrealShaderWorkingDir/7BD79B5C40F5F30DFF0DC58D00554F76/'.
+[2020.02.01-09.38.04:420][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.01-09.38.04:420][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.01-09.38.04:420][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.01-09.38.05:456][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.01-09.38.05:521][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Gabriel Joyce/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.01-09.38.05:521][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gabriel Joyce/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.01-09.38.05:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.01-09.38.05:521][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.01-09.38.05:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-09.38.05:521][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.01-09.38.05:536][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.01-09.38.05:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-09.38.05:536][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.01-09.38.05:537][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gabriel Joyce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.01-09.38.05:537][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.01-09.38.05:537][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.01-09.38.05:571][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.01-09.38.05:574][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.01-09.38.05:575][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.01-09.38.05:656][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.02.01-09.38.06:045][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-09.38.06:258][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.01-09.38.06:258][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.01-09.38.06:258][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.01-09.38.06:259][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.01-09.38.06:259][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.01-09.38.06:286][  0]LogNetVersion: GridBasedPlacing 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 742885074)
+[2020.02.01-09.38.07:785][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042341 seconds
+[2020.02.01-09.38.07:793][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.01-09.38.07:793][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.01-09.38.07:793][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.01-09.38.08:300][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.01-09.38.08:303][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.01-09.38.08:368][  0]SourceControl: Source control is disabled
+[2020.02.01-09.38.08:368][  0]SourceControl: Source control is disabled
+[2020.02.01-09.38.08:370][  0]SourceControl: Source control is disabled
+[2020.02.01-09.38.08:371][  0]SourceControl: Source control is disabled
+[2020.02.01-09.38.08:372][  0]SourceControl: Source control is disabled
+[2020.02.01-09.38.08:459][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.01-09.38.08:470][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.01-09.38.08:470][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.01-09.38.08:579][  0]LogOcInput: OculusInput pre-init called
+[2020.02.01-09.38.08:586][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.01-09.38.08:586][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.01-09.38.08:676][  0]LogEngine: Initializing Engine...
+[2020.02.01-09.38.08:677][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-09.38.08:678][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.01-09.38.09:145][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.01-09.38.09:154][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.01-09.38.09:162][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.38.09:163][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.38.09:163][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.38.09:163][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.38.09:163][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.38.09:163][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.38.09:163][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.38.09:163][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.38.09:163][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.38.09:163][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.38.09:184][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.38.09:184][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.38.09:184][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.38.09:184][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.38.09:184][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.38.09:184][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.38.09:184][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.38.09:184][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.38.09:185][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.38.09:208][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.38.09:216][  0]LogInit: FAudioDevice initialized.
+[2020.02.01-09.38.09:217][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.01-09.38.09:271][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/Gabriel Joyce/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.01-09.38.09:277][  0]LogInit: Texture streaming: Enabled
+[2020.02.01-09.38.09:287][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.01-09.38.09:287][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.01-09.38.09:289][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.01-09.38.09:346][  0]LogInit: Transaction tracking system initialized
+[2020.02.01-09.38.09:357][  0]BlueprintLog: New page: Editor Load
+[2020.02.01-09.38.09:390][  0]LocalizationService: Localization service is disabled
+[2020.02.01-09.38.09:767][  0]LogFileCache: Scanning file cache for directory 'D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/' took 0.00s
+[2020.02.01-09.38.09:767][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.01-09.38.09:767][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.01-09.38.10:797][  0]SourceControl: Source control is disabled
+[2020.02.01-09.38.10:797][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-09.38.10:797][  0]LightingResults: New page: Lighting Build
+[2020.02.01-09.38.10:798][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.38.10:798][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.38.10:799][  0]MapCheck: New page: Map Check
+[2020.02.01-09.38.10:799][  0]LightingResults: New page: Lighting Build
+[2020.02.01-09.38.10:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.02.01-09.38.10:938][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.01-09.38.10:942][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-09.38.10:983][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.01-09.38.10:983][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-09.38.10:983][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2020.02.01-09.38.10:983][  0]LogFileHelpers: Loading map 'Template_Default' took 0.187
+[2020.02.01-09.38.11:123][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.38.11:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.38.11:141][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.38.11:150][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.38.11:154][  0]LogCollectionManager: Loaded 0 collections in 0.001201 seconds
+[2020.02.01-09.38.11:172][  0]LogFileCache: Scanning file cache for directory 'D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/Collections/' took 0.00s
+[2020.02.01-09.38.11:172][  0]LogFileCache: Scanning file cache for directory 'D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Developers/GabrielJoyce/Collections/' took 0.00s
+[2020.02.01-09.38.11:172][  0]LogFileCache: Scanning file cache for directory 'D:/Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Collections/' took 0.00s
+[2020.02.01-09.38.11:172][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 3015 classes and 717 folders.
+[2020.02.01-09.38.11:178][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.01-09.38.11:274][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.01-09.38.11:278][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.02.01-09.38.12:625][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.01-09.38.12:629][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.01-09.38.12:634][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.01-09.38.12:759][  0]LogRenderer: Reallocating scene render targets to support 1180x612 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-09.38.12:935][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.01-09.38.12:935][  0]LogLoad: (Engine Initialization) Total time: 12.24 seconds
+[2020.02.01-09.38.12:935][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.01-09.38.13:000][  0]LogAssetRegistry: Asset discovery search completed in 7.3445 seconds
+[2020.02.01-09.38.13:004][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.02.01-09.38.13:004][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.01-09.38.35:130][196]Cmd: MAP LOAD FILE="../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Maps/GabrielsTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-09.38.35:135][196]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-09.38.35:148][196]LightingResults: New page: Lighting Build
+[2020.02.01-09.38.35:149][196]LoadErrors: New page: Loading map: GabrielsTestLevel.umap
+[2020.02.01-09.38.35:185][196]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.38.35:185][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.38.35:185][196]MapCheck: New page: Map Check
+[2020.02.01-09.38.35:185][196]LightingResults: New page: Lighting Build
+[2020.02.01-09.38.35:224][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.02.01-09.38.35:241][196]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.38.35:316][196]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-09.38.35:353][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.01-09.38.35:395][196]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-09.38.35:395][196]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2020.02.01-09.38.35:395][196]LogFileHelpers: Loading map 'GabrielsTestLevel' took 0.265
+[2020.02.01-09.38.36:671][271]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.38.36:691][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.38.36:692][271]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:38:36)
+[2020.02.01-09.38.36:693][271]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.01-09.38.36:694][271]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.01-09.38.36:695][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.38.36:698][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003007s)
+[2020.02.01-09.38.36:699][271]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.38.36:699][271]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2020.02.01-09.38.36:699][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.004866s)
+[2020.02.01-09.38.36:734][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.01-09.38.36:735][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.38.36:735][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.38.36:735][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.38.36:735][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.38.36:735][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.38.36:735][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.38.36:735][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.38.36:735][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.38.36:736][271]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.38.36:736][271]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.38.36:753][271]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.38.36:768][271]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.38.36:770][271]LogInit: FAudioDevice initialized.
+[2020.02.01-09.38.36:788][271]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.38.36:790][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.38.36
+[2020.02.01-09.38.36:790][271]LogWorld: Bringing up level for play took: 0.000595
+[2020.02.01-09.38.36:791][271]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.02.01-09.38.36:795][271]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.01-09.38.36:795][271]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.38.36:795][271]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.38.36:795][271]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.38.36:796][271]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.38.36:796][271]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel -1.329
+[2020.02.01-09.38.37:905][335]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.38.37:905][335]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.38.37:905][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.38.37:905][335]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.38.37:905][335]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.38.37:905][335]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.38.37:906][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.38.37:913][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.38.37:917][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.38.37:953][335]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.38.37:956][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.38.37:960][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.02.01-09.38.38:006][338]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.01-09.38.42:680][614]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.01-09.39.13:324][430]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.01-09.39.18:860][761]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.39.18:878][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.39.18:878][761]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:39:18)
+[2020.02.01-09.39.18:878][761]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.39.18:880][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002529s)
+[2020.02.01-09.39.18:882][761]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.39.18:882][761]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2020.02.01-09.39.18:882][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003834s)
+[2020.02.01-09.39.18:917][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.02.01-09.39.18:918][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.39.18:918][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.39.18:918][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.39.18:918][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.39.18:918][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.39.18:918][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.39.18:918][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.39.18:918][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.39.18:919][761]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.39.18:919][761]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.39.18:936][761]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.39.18:953][761]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.39.18:955][761]LogInit: FAudioDevice initialized.
+[2020.02.01-09.39.18:964][761]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.39.18:966][761]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.39.18
+[2020.02.01-09.39.18:966][761]LogWorld: Bringing up level for play took: 0.000575
+[2020.02.01-09.39.18:966][761]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.01-09.39.18:968][761]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.39.18:968][761]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.39.18:968][761]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.39.18:969][761]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.39.18:969][761]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 0.843
+[2020.02.01-09.39.20:010][823]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.20:010][823]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.20:011][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.39.20:011][823]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.39.20:011][823]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.20:011][823]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.39.20:011][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.39.20:017][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.39.20:020][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.39.20:055][823]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.20:058][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.39.20:061][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.01-09.39.20:110][826]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.01-09.39.20:729][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Camera.BP_Camera
+[2020.02.01-09.39.20:946][862]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.02.01-09.39.23:824][964]LogSlate: Window 'BP_Camera' being destroyed
+[2020.02.01-09.39.23:850][964]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.39.23:850][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.39.23:924][964]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Camera.BP_Camera
+[2020.02.01-09.39.24:413][964]LogSlate: Took 0.043167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-09.39.25:549][ 22]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.01-09.39.36:471][644]BlueprintLog: New page: Compile BP_Camera
+[2020.02.01-09.39.36:730][644]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.02.01-09.39.37:206][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2020.02.01-09.39.37:232][669]LogSavePackage: Moving '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/BP_CameraE7BF4C204F72F49E8D1342A9DD3A9BA4.tmp' to '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/BP_Camera.uasset'
+[2020.02.01-09.39.37:250][669]AssetCheck: New page: Asset Save: BP_Camera
+[2020.02.01-09.39.37:250][669]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Camera.BP_Camera
+[2020.02.01-09.39.43:634][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.39.43:655][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.39.43:655][ 40]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:39:43)
+[2020.02.01-09.39.43:655][ 40]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.39.43:658][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002529s)
+[2020.02.01-09.39.43:659][ 40]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.39.43:659][ 40]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2020.02.01-09.39.43:659][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003885s)
+[2020.02.01-09.39.43:707][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.02.01-09.39.43:709][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.39.43:709][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.39.43:709][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.39.43:709][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.39.43:709][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.39.43:709][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.39.43:709][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.39.43:709][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.39.43:710][ 40]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.39.43:710][ 40]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.39.43:726][ 40]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.39.43:727][ 40]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.39.43:727][ 40]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.39.43:727][ 40]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.39.43:727][ 40]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.39.43:727][ 40]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.39.43:727][ 40]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.39.43:727][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.39.43:727][ 40]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.39.43:742][ 40]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.39.43:744][ 40]LogInit: FAudioDevice initialized.
+[2020.02.01-09.39.43:755][ 40]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.39.43:757][ 40]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.39.43
+[2020.02.01-09.39.43:757][ 40]LogWorld: Bringing up level for play took: 0.000592
+[2020.02.01-09.39.43:757][ 40]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.02.01-09.39.43:759][ 40]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.39.43:759][ 40]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.39.43:759][ 40]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.39.43:760][ 40]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.39.43:760][ 40]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 1.634
+[2020.02.01-09.39.44:767][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.44:767][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.44:767][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.39.44:767][ 99]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.39.44:767][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.44:767][ 99]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.39.44:767][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.39.44:774][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.39.44:778][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.39.44:819][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.44:823][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.39.44:827][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.02.01-09.39.44:873][101]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.01-09.39.55:378][724]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.39.55:399][724]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-09.39.55:400][724]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2020.02.01-09.39.55:673][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.01-09.39.55:675][724]LogPlayLevel: PlayLevel: Blueprint regeneration took 276 ms (1 blueprints)
+[2020.02.01-09.39.55:675][724]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:39:55)
+[2020.02.01-09.39.55:675][724]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.39.55:677][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002462s)
+[2020.02.01-09.39.55:679][724]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.39.55:679][724]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2020.02.01-09.39.55:679][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003929s)
+[2020.02.01-09.39.55:718][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.01-09.39.55:718][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.39.55:718][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.39.55:718][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.39.55:719][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.39.55:719][724]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.39.55:719][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.39.55:719][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.39.55:719][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.39.55:719][724]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.39.55:719][724]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.39.55:735][724]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.39.55:751][724]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.39.55:752][724]LogInit: FAudioDevice initialized.
+[2020.02.01-09.39.55:767][724]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.39.55:769][724]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.39.55
+[2020.02.01-09.39.55:769][724]LogWorld: Bringing up level for play took: 0.000790
+[2020.02.01-09.39.55:769][724]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.02.01-09.39.55:771][724]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.39.55:771][724]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.39.55:771][724]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.39.55:772][724]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.39.55:772][724]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 1.646
+[2020.02.01-09.39.57:331][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.57:331][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.57:332][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.39.57:332][814]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.39.57:332][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.57:332][814]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.39.57:332][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.39.57:338][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.39.57:343][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.39.57:378][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.39.57:381][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.39.57:385][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.01-09.39.57:436][817]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.01-09.40.05:974][324]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.40.05:996][324]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-09.40.05:996][324]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2020.02.01-09.40.06:259][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.02.01-09.40.06:261][324]LogPlayLevel: PlayLevel: Blueprint regeneration took 265 ms (1 blueprints)
+[2020.02.01-09.40.06:261][324]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:40:06)
+[2020.02.01-09.40.06:261][324]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.40.06:264][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002533s)
+[2020.02.01-09.40.06:265][324]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.40.06:265][324]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2020.02.01-09.40.06:265][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003817s)
+[2020.02.01-09.40.06:312][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.02.01-09.40.06:313][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.40.06:313][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.40.06:313][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.40.06:313][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.40.06:313][324]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.40.06:313][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.40.06:313][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.40.06:313][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.40.06:314][324]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.40.06:314][324]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.40.06:330][324]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.40.06:331][324]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.40.06:331][324]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.40.06:331][324]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.40.06:331][324]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.40.06:331][324]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.40.06:331][324]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.40.06:331][324]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.40.06:331][324]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.40.06:346][324]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.40.06:347][324]LogInit: FAudioDevice initialized.
+[2020.02.01-09.40.06:362][324]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.40.06:363][324]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.40.06
+[2020.02.01-09.40.06:363][324]LogWorld: Bringing up level for play took: 0.000850
+[2020.02.01-09.40.06:364][324]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.02.01-09.40.06:365][324]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.40.06:365][324]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.40.06:365][324]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.40.06:366][324]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.40.06:366][324]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 0.24
+[2020.02.01-09.40.07:266][377]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.07:266][377]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.07:266][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.40.07:266][377]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.40.07:266][377]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.07:266][377]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.40.07:266][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.40.07:277][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.40.07:282][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.40.07:319][377]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.07:322][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.40.07:326][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.01-09.40.07:373][379]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.01-09.40.16:197][901]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.40.16:219][901]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-09.40.16:219][901]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2020.02.01-09.40.16:491][901]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.02.01-09.40.16:492][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 273 ms (1 blueprints)
+[2020.02.01-09.40.16:493][901]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:40:16)
+[2020.02.01-09.40.16:493][901]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.40.16:495][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002487s)
+[2020.02.01-09.40.16:496][901]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.40.16:496][901]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2020.02.01-09.40.16:496][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003826s)
+[2020.02.01-09.40.16:545][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.01-09.40.16:545][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.40.16:545][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.40.16:545][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.40.16:545][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.40.16:545][901]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.40.16:545][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.40.16:545][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.40.16:545][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.40.16:546][901]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.40.16:546][901]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.40.16:562][901]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.40.16:578][901]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.40.16:579][901]LogInit: FAudioDevice initialized.
+[2020.02.01-09.40.16:593][901]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.40.16:594][901]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.40.16
+[2020.02.01-09.40.16:594][901]LogWorld: Bringing up level for play took: 0.000762
+[2020.02.01-09.40.16:595][901]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.01-09.40.16:597][901]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.40.16:597][901]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.40.16:597][901]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.40.16:597][901]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.40.16:597][901]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel -1.529
+[2020.02.01-09.40.18:432][  8]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.18:432][  8]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.18:433][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.40.18:433][  8]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.40.18:433][  8]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.18:433][  8]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.40.18:433][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.40.18:441][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.40.18:445][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.40.18:481][  8]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.18:484][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.40.18:488][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.01-09.40.18:536][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.01-09.40.43:302][486]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.40.43:324][486]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-09.40.43:325][486]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2020.02.01-09.40.43:582][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.01-09.40.43:584][486]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2020.02.01-09.40.43:585][486]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:40:43)
+[2020.02.01-09.40.43:585][486]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.40.43:587][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002546s)
+[2020.02.01-09.40.43:588][486]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.40.43:589][486]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2020.02.01-09.40.43:589][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003862s)
+[2020.02.01-09.40.43:635][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.01-09.40.43:636][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.40.43:636][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.40.43:636][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.40.43:636][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.40.43:636][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.40.43:636][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.40.43:636][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.40.43:636][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.40.43:637][486]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.40.43:637][486]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.40.43:656][486]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.40.43:672][486]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.40.43:673][486]LogInit: FAudioDevice initialized.
+[2020.02.01-09.40.43:685][486]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.40.43:686][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.40.43
+[2020.02.01-09.40.43:687][486]LogWorld: Bringing up level for play took: 0.000976
+[2020.02.01-09.40.43:687][486]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.01-09.40.43:689][486]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.40.43:689][486]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.40.43:689][486]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.40.43:689][486]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.40.43:690][486]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 1.564
+[2020.02.01-09.40.45:295][581]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.45:295][581]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.45:295][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.40.45:295][581]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.40.45:295][581]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.45:296][581]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.40.45:296][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.40.45:303][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.40.45:310][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.40.45:355][581]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.45:360][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.40.45:364][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.01-09.40.45:412][583]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.01-09.40.50:243][871]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.40.50:265][871]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-09.40.50:266][871]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2020.02.01-09.40.50:527][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.02.01-09.40.50:528][871]LogPlayLevel: PlayLevel: Blueprint regeneration took 262 ms (1 blueprints)
+[2020.02.01-09.40.50:528][871]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:40:50)
+[2020.02.01-09.40.50:529][871]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.40.50:531][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002491s)
+[2020.02.01-09.40.50:532][871]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.40.50:532][871]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2020.02.01-09.40.50:532][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003763s)
+[2020.02.01-09.40.50:579][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.01-09.40.50:580][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.40.50:580][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.40.50:580][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.40.50:580][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.40.50:580][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.40.50:580][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.40.50:580][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.40.50:580][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.40.50:581][871]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.40.50:581][871]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.40.50:597][871]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.40.50:612][871]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.40.50:614][871]LogInit: FAudioDevice initialized.
+[2020.02.01-09.40.50:627][871]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.40.50:629][871]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.40.50
+[2020.02.01-09.40.50:629][871]LogWorld: Bringing up level for play took: 0.000776
+[2020.02.01-09.40.50:629][871]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.01-09.40.50:631][871]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.40.50:631][871]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.40.50:631][871]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.40.50:632][871]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.40.50:632][871]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 0.506
+[2020.02.01-09.40.52:397][976]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.52:397][976]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.52:397][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.40.52:397][976]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.40.52:397][976]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.52:398][976]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.40.52:398][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.40.52:407][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.40.52:411][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.40.52:450][976]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.40.52:454][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.40.52:458][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.01-09.40.52:504][979]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.01-09.41.00:962][485]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.41.00:983][485]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-09.41.00:984][485]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2020.02.01-09.41.01:249][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.02.01-09.41.01:251][485]LogPlayLevel: PlayLevel: Blueprint regeneration took 267 ms (1 blueprints)
+[2020.02.01-09.41.01:251][485]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:41:01)
+[2020.02.01-09.41.01:251][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.01:254][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002529s)
+[2020.02.01-09.41.01:255][485]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.41.01:255][485]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2020.02.01-09.41.01:255][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003835s)
+[2020.02.01-09.41.01:303][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.01-09.41.01:303][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.41.01:303][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.41.01:303][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.41.01:303][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.41.01:303][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.41.01:303][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.41.01:303][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.41.01:303][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.41.01:303][485]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.41.01:303][485]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.41.01:320][485]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.41.01:335][485]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.01:337][485]LogInit: FAudioDevice initialized.
+[2020.02.01-09.41.01:348][485]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.41.01:349][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.41.01
+[2020.02.01-09.41.01:350][485]LogWorld: Bringing up level for play took: 0.000832
+[2020.02.01-09.41.01:350][485]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.01-09.41.01:352][485]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.01:352][485]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.01:352][485]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.01:353][485]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.01:353][485]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel -0.773
+[2020.02.01-09.41.02:531][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.02:531][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.02:532][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.02:532][553]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.02:532][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.02:532][553]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.41.02:532][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.02:536][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.41.02:541][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.02:590][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.02:594][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.02:599][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.02.01-09.41.02:647][556]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.01-09.41.05:017][697]BlueprintLog: New page: Compile BP_Camera
+[2020.02.01-09.41.05:280][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.01-09.41.05:602][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2020.02.01-09.41.05:617][713]LogSavePackage: Moving '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/BP_CameraCE6C45E5451F586928AA88A102F086A3.tmp' to '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/BP_Camera.uasset'
+[2020.02.01-09.41.05:635][713]AssetCheck: New page: Asset Save: BP_Camera
+[2020.02.01-09.41.05:635][713]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Camera.BP_Camera
+[2020.02.01-09.41.07:441][819]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.41.07:462][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.41.07:462][819]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:41:07)
+[2020.02.01-09.41.07:462][819]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.07:465][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002471s)
+[2020.02.01-09.41.07:466][819]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.41.07:466][819]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2020.02.01-09.41.07:466][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003772s)
+[2020.02.01-09.41.07:505][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.02.01-09.41.07:506][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.41.07:506][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.41.07:506][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.41.07:506][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.41.07:506][819]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.41.07:506][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.41.07:506][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.41.07:506][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.41.07:507][819]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.41.07:507][819]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.41.07:523][819]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.41.07:538][819]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.07:540][819]LogInit: FAudioDevice initialized.
+[2020.02.01-09.41.07:546][819]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.41.07:547][819]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.41.07
+[2020.02.01-09.41.07:547][819]LogWorld: Bringing up level for play took: 0.000558
+[2020.02.01-09.41.07:547][819]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.01-09.41.07:549][819]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.07:549][819]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.07:549][819]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.07:549][819]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.07:549][819]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 1.424
+[2020.02.01-09.41.19:452][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.19:452][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.19:453][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.19:453][515]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.19:454][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.19:454][515]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.41.19:455][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.19:463][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.41.19:468][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.19:511][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.19:515][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.19:518][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.02.01-09.41.19:561][517]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.01-09.41.25:976][899]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.41.25:997][899]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-09.41.25:998][899]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2020.02.01-09.41.26:266][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.02.01-09.41.26:267][899]LogPlayLevel: PlayLevel: Blueprint regeneration took 270 ms (1 blueprints)
+[2020.02.01-09.41.26:267][899]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:41:26)
+[2020.02.01-09.41.26:267][899]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.26:270][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002696s)
+[2020.02.01-09.41.26:271][899]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.41.26:272][899]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2020.02.01-09.41.26:272][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.004105s)
+[2020.02.01-09.41.26:319][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.01-09.41.26:319][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.41.26:319][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.41.26:319][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.41.26:319][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.41.26:319][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.41.26:320][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.41.26:320][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.41.26:320][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.41.26:320][899]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.41.26:320][899]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.41.26:338][899]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.41.26:357][899]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.26:359][899]LogInit: FAudioDevice initialized.
+[2020.02.01-09.41.26:365][899]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.41.26:366][899]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.41.26
+[2020.02.01-09.41.26:366][899]LogWorld: Bringing up level for play took: 0.000563
+[2020.02.01-09.41.26:367][899]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.02.01-09.41.26:368][899]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.26:368][899]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.26:368][899]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.26:369][899]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.26:369][899]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 0.243
+[2020.02.01-09.41.27:422][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.27:422][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.27:422][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.27:423][958]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.27:423][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.27:423][958]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.41.27:423][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.27:431][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.41.27:436][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.27:481][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.27:484][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.27:488][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.01-09.41.27:527][960]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.01-09.41.28:732][ 30]BlueprintLog: New page: Compile BP_Camera
+[2020.02.01-09.41.29:003][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.02.01-09.41.29:348][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2020.02.01-09.41.29:363][ 48]LogSavePackage: Moving '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/BP_CameraF96F448D466EEC9889C7F9B75B9C375A.tmp' to '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/BP_Camera.uasset'
+[2020.02.01-09.41.29:381][ 48]AssetCheck: New page: Asset Save: BP_Camera
+[2020.02.01-09.41.29:381][ 48]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Camera.BP_Camera
+[2020.02.01-09.41.30:274][100]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.41.30:295][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.41.30:295][100]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:41:30)
+[2020.02.01-09.41.30:295][100]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.30:298][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002535s)
+[2020.02.01-09.41.30:299][100]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.41.30:299][100]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2020.02.01-09.41.30:299][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003792s)
+[2020.02.01-09.41.30:348][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.01-09.41.30:349][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.41.30:349][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.41.30:349][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.41.30:349][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.41.30:349][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.41.30:349][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.41.30:350][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.41.30:350][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.41.30:350][100]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.41.30:350][100]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.41.30:366][100]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.41.30:367][100]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.30:367][100]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.41.30:367][100]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.41.30:367][100]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.41.30:367][100]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.41.30:367][100]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.41.30:367][100]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.41.30:367][100]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.41.30:382][100]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.30:384][100]LogInit: FAudioDevice initialized.
+[2020.02.01-09.41.30:400][100]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.41.30:401][100]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.41.30
+[2020.02.01-09.41.30:401][100]LogWorld: Bringing up level for play took: 0.000819
+[2020.02.01-09.41.30:402][100]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.02.01-09.41.30:404][100]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.30:404][100]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.30:404][100]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.30:405][100]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.30:405][100]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 0.279
+[2020.02.01-09.41.31:716][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.31:717][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.31:717][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.31:717][175]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.31:717][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.31:717][175]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.41.31:717][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.31:726][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.41.31:730][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.31:777][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.31:780][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.31:784][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.01-09.41.31:835][177]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.01-09.41.39:292][618]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.02.01-09.41.41:041][722]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.01-09.41.41:568][753]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.41.41:592][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.41.41:592][753]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:41:41)
+[2020.02.01-09.41.41:592][753]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.41:594][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002495s)
+[2020.02.01-09.41.41:596][753]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.41.41:596][753]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2020.02.01-09.41.41:596][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003924s)
+[2020.02.01-09.41.41:644][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.01-09.41.41:646][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.41.41:646][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.41.41:646][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.41.41:646][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.41.41:646][753]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.41.41:646][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.41.41:646][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.41.41:646][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.41.41:646][753]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.41.41:648][753]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.41.41:664][753]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.41.41:679][753]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.41:681][753]LogInit: FAudioDevice initialized.
+[2020.02.01-09.41.41:689][753]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.41.41:690][753]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.41.41
+[2020.02.01-09.41.41:690][753]LogWorld: Bringing up level for play took: 0.000548
+[2020.02.01-09.41.41:690][753]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.01-09.41.41:692][753]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.41:692][753]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.41:692][753]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.41:693][753]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.41:693][753]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel -0.433
+[2020.02.01-09.41.43:016][831]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.43:016][831]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.43:016][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.43:016][831]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.43:016][831]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.43:016][831]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.41.43:016][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.43:024][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.41.43:029][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.43:071][831]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.43:074][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.43:078][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.01-09.41.43:116][833]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.01-09.41.43:867][878]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.02.01-09.41.46:081][  8]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.01-09.41.46:840][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.41.46:864][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.41.46:864][ 53]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:41:46)
+[2020.02.01-09.41.46:864][ 53]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.46:867][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002479s)
+[2020.02.01-09.41.46:868][ 53]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.41.46:868][ 53]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2020.02.01-09.41.46:868][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.003897s)
+[2020.02.01-09.41.46:910][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.01-09.41.46:911][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.41.46:911][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.41.46:911][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.41.46:911][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.41.46:912][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.41.46:912][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.41.46:912][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.41.46:912][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.41.46:912][ 53]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.41.46:912][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.41.46:929][ 53]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.41.46:944][ 53]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.46:946][ 53]LogInit: FAudioDevice initialized.
+[2020.02.01-09.41.46:955][ 53]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.41.46:956][ 53]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.41.46
+[2020.02.01-09.41.46:957][ 53]LogWorld: Bringing up level for play took: 0.000594
+[2020.02.01-09.41.46:957][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.02.01-09.41.46:959][ 53]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.46:959][ 53]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.46:959][ 53]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.46:959][ 53]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.46:959][ 53]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 0.834
+[2020.02.01-09.41.48:584][149]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.48:584][149]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.48:584][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.48:584][149]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.48:584][149]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.48:584][149]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.41.48:585][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.48:591][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.41.48:596][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.48:637][149]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.48:640][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.48:644][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.01-09.41.48:699][152]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.01-09.41.49:066][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-09.41.55:468][553]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.41.55:493][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.41.55:493][553]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:41:55)
+[2020.02.01-09.41.55:493][553]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.55:496][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002895s)
+[2020.02.01-09.41.55:498][553]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.41.55:498][553]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2020.02.01-09.41.55:498][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.004706s)
+[2020.02.01-09.41.55:538][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.02.01-09.41.55:541][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.41.55:541][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.41.55:541][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.41.55:541][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.41.55:541][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.41.55:541][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.41.55:541][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.41.55:541][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.41.55:541][553]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.41.55:541][553]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.41.55:558][553]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.41.55:573][553]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.41.55:574][553]LogInit: FAudioDevice initialized.
+[2020.02.01-09.41.55:582][553]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.41.55:583][553]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.41.55
+[2020.02.01-09.41.55:583][553]LogWorld: Bringing up level for play took: 0.000541
+[2020.02.01-09.41.55:583][553]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.02.01-09.41.55:585][553]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.55:585][553]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.41.55:585][553]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.55:585][553]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.41.55:585][553]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 1.46
+[2020.02.01-09.41.56:929][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.56:929][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.56:930][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.56:930][632]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.41.56:930][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.56:930][632]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.41.56:930][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.56:936][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.41.56:941][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.41.56:980][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.41.56:984][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.41.56:988][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.01-09.41.57:040][634]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.01-09.42.05:426][126]BlueprintLog: New page: Compile BP_Camera
+[2020.02.01-09.42.05:683][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.02.01-09.42.06:515][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Camera" FILE="../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/BP_Camera.uasset" SILENT=true
+[2020.02.01-09.42.06:531][171]LogSavePackage: Moving '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/BP_CameraB9E5234845215F4861B8B8B0C9852960.tmp' to '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/BP_Camera.uasset'
+[2020.02.01-09.42.06:545][171]AssetCheck: New page: Asset Save: BP_Camera
+[2020.02.01-09.42.06:545][171]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Camera.BP_Camera
+[2020.02.01-09.42.07:316][215]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.42.07:339][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.42.07:339][215]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:42:07)
+[2020.02.01-09.42.07:339][215]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.42.07:342][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002583s)
+[2020.02.01-09.42.07:343][215]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.42.07:343][215]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2020.02.01-09.42.07:344][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.004073s)
+[2020.02.01-09.42.07:390][215]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.01-09.42.07:390][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.42.07:390][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.42.07:390][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.42.07:390][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.42.07:390][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.42.07:390][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.42.07:390][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.42.07:390][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.42.07:391][215]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.42.07:391][215]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.42.07:409][215]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.42.07:425][215]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.42.07:426][215]LogInit: FAudioDevice initialized.
+[2020.02.01-09.42.07:443][215]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.42.07:444][215]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.42.07
+[2020.02.01-09.42.07:444][215]LogWorld: Bringing up level for play took: 0.000785
+[2020.02.01-09.42.07:445][215]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.02.01-09.42.07:446][215]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.42.07:446][215]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.42.07:446][215]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.42.07:447][215]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.42.07:447][215]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 1.321
+[2020.02.01-09.42.09:035][307]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.42.09:036][307]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.42.09:036][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.42.09:036][307]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.42.09:036][307]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.42.09:036][307]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.42.09:036][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.42.09:044][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.42.09:050][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.42.09:091][307]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.42.09:094][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.42.09:098][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.02.01-09.42.09:136][309]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.01-09.42.35:452][846]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2020.02.01-09.42.38:463][998]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.42.38:463][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.42.38:534][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2020.02.01-09.43.54:068][416]BlueprintLog: New page: Compile BP_Player
+[2020.02.01-09.43.54:390][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.01-09.43.54:789][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2020.02.01-09.43.54:824][435]LogSavePackage: Moving '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Saved/BP_Player08129A1141C905FB9F36539873EAC959.tmp' to '../../../../../Game Projects/GlobalGameJam2020/GameJam2020/GridBasedPlacing/Content/Blueprints/Player/BP_Player.uasset'
+[2020.02.01-09.43.54:844][435]AssetCheck: New page: Asset Save: BP_Player
+[2020.02.01-09.43.54:844][435]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2020.02.01-09.43.55:646][482]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.43.55:670][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.43.55:671][482]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:43:55)
+[2020.02.01-09.43.55:671][482]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.43.55:674][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003428s)
+[2020.02.01-09.43.55:675][482]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.43.55:675][482]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2020.02.01-09.43.55:676][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.004865s)
+[2020.02.01-09.43.55:727][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.02.01-09.43.55:728][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.43.55:728][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.43.55:728][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.43.55:728][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.43.55:728][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.43.55:729][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.43.55:729][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.43.55:729][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.43.55:729][482]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.43.55:729][482]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.43.55:746][482]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.43.55:762][482]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.43.55:764][482]LogInit: FAudioDevice initialized.
+[2020.02.01-09.43.55:773][482]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.43.55:775][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.43.55
+[2020.02.01-09.43.55:794][482]LogWorld: Bringing up level for play took: 0.020240
+[2020.02.01-09.43.55:794][482]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.02.01-09.43.55:796][482]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.43.55:796][482]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.43.55:796][482]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.43.55:797][482]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.43.55:797][482]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel 1.672
+[2020.02.01-09.43.56:548][525]LogSlate: Window 'BP_Player' being destroyed
+[2020.02.01-09.43.56:555][525]LogSlate: Window 'BP_Player' being destroyed
+[2020.02.01-09.43.56:574][525]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.43.56:574][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.43.56:641][525]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-09.43.56:641][525]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.43.56:641][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.44.08:009][204]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.44.08:009][204]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.44.08:010][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.44.08:010][204]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.44.08:010][204]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.44.08:044][204]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.44.08:044][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.44.08:054][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.44.08:059][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.44.08:100][204]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.44.08:104][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.44.08:110][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.02.01-09.44.08:132][205]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.01-09.44.10:060][319]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (BP_Player2)
+[2020.02.01-09.44.14:204][565]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (BP_Player)
+[2020.02.01-09.44.16:767][716]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-09.44.16:788][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-09.44.16:788][716]PIE: New page: PIE session: GabrielsTestLevel (1 Feb 2020, 11:44:16)
+[2020.02.01-09.44.16:788][716]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.44.16:791][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003068s)
+[2020.02.01-09.44.16:793][716]LogAIModule: Creating AISystem for world GabrielsTestLevel
+[2020.02.01-09.44.16:793][716]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2020.02.01-09.44.16:793][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GabrielsTestLevel.GabrielsTestLevel to /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel (0.004440s)
+[2020.02.01-09.44.16:836][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.01-09.44.16:838][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-09.44.16:838][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-09.44.16:838][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-09.44.16:838][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-09.44.16:838][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-09.44.16:838][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-09.44.16:838][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-09.44.16:838][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-09.44.16:839][716]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-09.44.16:839][716]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: Channel Order:
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-09.44.16:855][716]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-09.44.16:871][716]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.01-09.44.16:872][716]LogInit: FAudioDevice initialized.
+[2020.02.01-09.44.16:881][716]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-09.44.16:883][716]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GabrielsTestLevel.GabrielsTestLevel up for play (max tick rate 60) at 2020.02.01-10.44.16
+[2020.02.01-09.44.16:883][716]LogWorld: Bringing up level for play took: 0.001032
+[2020.02.01-09.44.16:884][716]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.02.01-09.44.16:885][716]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.44.16:885][716]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-09.44.16:885][716]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.44.16:886][716]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-09.44.16:886][716]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GabrielsTestLevel -1.24
+[2020.02.01-09.44.27:322][341]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.44.27:322][341]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.44.27:323][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.44.27:323][341]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GabrielsTestLevel
+[2020.02.01-09.44.27:323][341]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.44.27:323][341]LogWorld: UWorld::CleanupWorld for GabrielsTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.44.27:323][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.44.27:335][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-09.44.27:340][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-09.44.27:375][341]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.44.27:378][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-09.44.27:382][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.02.01-09.44.27:426][343]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.01-09.47.25:748][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.02.01-09.47.28:164][231]LogSlate: Window 'Save Content' being destroyed
+[2020.02.01-09.47.29:047][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.01-09.47.30:208][282]LogSlate: Window 'Save Content' being destroyed
+[2020.02.01-09.47.30:289][282]LogSlate: Window 'GridBasedPlacing - Unreal Editor' being destroyed
+[2020.02.01-09.47.30:527][283]Cmd: QUIT_EDITOR
+[2020.02.01-09.47.30:527][283]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.01-09.47.30:541][283]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.01-09.47.30:541][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-09.47.30:803][283]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.01-09.47.30:821][283]LogExit: Preparing to exit.
+[2020.02.01-09.47.31:890][283]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.47.31:893][283]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.47.31:896][283]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.47.31:939][283]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.01-09.47.32:011][283]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-09.47.32:016][283]LogExit: Editor shut down
+[2020.02.01-09.47.32:017][283]LogExit: Transaction tracking system shut down
+[2020.02.01-09.47.32:972][283]LogExit: Object subsystem successfully closed.
+[2020.02.01-09.47.33:058][283]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.01-09.47.33:966][283]LogModuleManager: Shutting down and abandoning module BlueprintGraph (706)
+[2020.02.01-09.47.33:966][283]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (704)
+[2020.02.01-09.47.33:966][283]LogModuleManager: Shutting down and abandoning module Voice (702)
+[2020.02.01-09.47.33:966][283]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (700)
+[2020.02.01-09.47.33:966][283]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (698)
+[2020.02.01-09.47.33:966][283]LogModuleManager: Shutting down and abandoning module SceneOutliner (696)
+[2020.02.01-09.47.33:966][283]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.02.01-09.47.34:004][283]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.02.01-09.47.34:004][283]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.02.01-09.47.34:004][283]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.02.01-09.47.34:004][283]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (686)
+[2020.02.01-09.47.34:004][283]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.02.01-09.47.34:011][283]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.02.01-09.47.34:011][283]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.02.01-09.47.34:012][283]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.02.01-09.47.34:064][283]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.02.01-09.47.34:065][283]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.02.01-09.47.34:065][283]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.02.01-09.47.34:065][283]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.02.01-09.47.34:093][283]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.02.01-09.47.34:093][283]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.02.01-09.47.34:145][283]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.02.01-09.47.34:158][283]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.02.01-09.47.34:158][283]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.02.01-09.47.34:158][283]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.02.01-09.47.34:158][283]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.02.01-09.47.34:158][283]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.02.01-09.47.34:158][283]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.02.01-09.47.34:158][283]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.02.01-09.47.34:180][283]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.02.01-09.47.34:235][283]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.02.01-09.47.34:235][283]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.02.01-09.47.34:235][283]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.02.01-09.47.34:235][283]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.02.01-09.47.34:248][283]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.02.01-09.47.34:263][283]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.02.01-09.47.34:279][283]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.02.01-09.47.34:291][283]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.02.01-09.47.34:291][283]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.02.01-09.47.34:291][283]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.02.01-09.47.34:291][283]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.02.01-09.47.35:729][283]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.02.01-09.47.35:729][283]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.02.01-09.47.35:729][283]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.02.01-09.47.35:729][283]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.02.01-09.47.35:730][283]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.02.01-09.47.35:730][283]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.02.01-09.47.35:730][283]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.02.01-09.47.35:730][283]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.02.01-09.47.35:752][283]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.02.01-09.47.35:752][283]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.02.01-09.47.35:764][283]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.02.01-09.47.35:789][283]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.02.01-09.47.35:789][283]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.02.01-09.47.35:801][283]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.02.01-09.47.35:801][283]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.02.01-09.47.35:834][283]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.02.01-09.47.35:834][283]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.02.01-09.47.35:852][283]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.02.01-09.47.35:868][283]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.02.01-09.47.35:868][283]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.02.01-09.47.35:868][283]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.02.01-09.47.35:868][283]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.02.01-09.47.35:873][283]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.02.01-09.47.35:873][283]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.02.01-09.47.35:873][283]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.02.01-09.47.35:873][283]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.02.01-09.47.35:878][283]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.02.01-09.47.35:878][283]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.02.01-09.47.35:878][283]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.02.01-09.47.35:878][283]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.02.01-09.47.35:880][283]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.02.01-09.47.35:880][283]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.02.01-09.47.35:897][283]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.02.01-09.47.35:909][283]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.02.01-09.47.35:950][283]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.02.01-09.47.35:950][283]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.02.01-09.47.35:950][283]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.02.01-09.47.35:951][283]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.02.01-09.47.35:956][283]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.02.01-09.47.35:962][283]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.02.01-09.47.35:977][283]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.02.01-09.47.35:999][283]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.02.01-09.47.36:015][283]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.02.01-09.47.36:015][283]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.02.01-09.47.36:015][283]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.02.01-09.47.36:015][283]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.02.01-09.47.36:015][283]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.02.01-09.47.36:016][283]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.02.01-09.47.36:016][283]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.02.01-09.47.36:016][283]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.02.01-09.47.36:028][283]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.02.01-09.47.36:028][283]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.02.01-09.47.36:047][283]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.02.01-09.47.36:047][283]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.02.01-09.47.36:047][283]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.02.01-09.47.36:047][283]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.02.01-09.47.36:047][283]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.02.01-09.47.36:047][283]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.02.01-09.47.36:047][283]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.02.01-09.47.36:067][283]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.02.01-09.47.36:076][283]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.02.01-09.47.36:092][283]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.02.01-09.47.36:092][283]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.02.01-09.47.36:092][283]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.02.01-09.47.36:092][283]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.02.01-09.47.36:092][283]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.02.01-09.47.36:092][283]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.02.01-09.47.36:193][283]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.02.01-09.47.36:293][283]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.02.01-09.47.36:293][283]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.02.01-09.47.36:293][283]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.02.01-09.47.36:305][283]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.02.01-09.47.36:305][283]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.02.01-09.47.36:305][283]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.02.01-09.47.36:305][283]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.02.01-09.47.36:306][283]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.02.01-09.47.36:306][283]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.02.01-09.47.36:307][283]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.02.01-09.47.36:307][283]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.02.01-09.47.36:307][283]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.02.01-09.47.36:307][283]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.02.01-09.47.36:307][283]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.02.01-09.47.36:309][283]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.02.01-09.47.36:309][283]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.02.01-09.47.36:309][283]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.02.01-09.47.36:309][283]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.02.01-09.47.36:309][283]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.02.01-09.47.36:317][283]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.02.01-09.47.36:317][283]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.02.01-09.47.36:317][283]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.02.01-09.47.36:317][283]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.02.01-09.47.36:334][283]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.02.01-09.47.36:347][283]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.02.01-09.47.36:347][283]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.02.01-09.47.36:371][283]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.02.01-09.47.36:371][283]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.02.01-09.47.36:371][283]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.02.01-09.47.36:371][283]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.02.01-09.47.36:390][283]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.02.01-09.47.36:390][283]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.02.01-09.47.36:390][283]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.02.01-09.47.36:488][283]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.02.01-09.47.36:509][283]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.02.01-09.47.36:529][283]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.01-09.47.36:530][283]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.02.01-09.47.36:530][283]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.02.01-09.47.36:548][283]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.02.01-09.47.36:548][283]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.02.01-09.47.36:548][283]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.02.01-09.47.36:548][283]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.02.01-09.47.36:573][283]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.02.01-09.47.36:590][283]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.02.01-09.47.36:590][283]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.02.01-09.47.36:598][283]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.02.01-09.47.36:598][283]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.02.01-09.47.36:598][283]LogDerivedDataCache: Shutdown
+[2020.02.01-09.47.36:598][283]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.02.01-09.47.36:598][283]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.02.01-09.47.36:598][283]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.02.01-09.47.36:598][283]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.02.01-09.47.36:598][283]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.02.01-09.47.36:617][283]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.02.01-09.47.36:617][283]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.02.01-09.47.36:629][283]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.02.01-09.47.36:630][283]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.02.01-09.47.36:630][283]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.02.01-09.47.36:630][283]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.02.01-09.47.36:630][283]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.02.01-09.47.36:630][283]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.02.01-09.47.36:631][283]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.01-09.47.36:631][283]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.02.01-09.47.36:631][283]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.02.01-09.47.36:631][283]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.02.01-09.47.36:631][283]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.02.01-09.47.36:631][283]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.02.01-09.47.36:631][283]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.02.01-09.47.36:632][283]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.02.01-09.47.36:632][283]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.02.01-09.47.36:632][283]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.01-09.47.36:639][283]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.02.01-09.47.36:639][283]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.02.01-09.47.36:639][283]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.02.01-09.47.36:639][283]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.02.01-09.47.36:640][283]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.02.01-09.47.36:640][283]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.02.01-09.47.36:674][283]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.02.01-09.47.36:674][283]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.02.01-09.47.36:674][283]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.02.01-09.47.36:674][283]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.02.01-09.47.36:691][283]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.02.01-09.47.36:691][283]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.02.01-09.47.36:691][283]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.02.01-09.47.36:691][283]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.01-09.47.36:692][283]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.02.01-09.47.36:692][283]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.02.01-09.47.36:692][283]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.02.01-09.47.36:692][283]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.02.01-09.47.36:692][283]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.02.01-09.47.36:693][283]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.02.01-09.47.36:693][283]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.02.01-09.47.36:739][283]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.02.01-09.47.36:739][283]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.01-09.47.36:739][283]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67DD1BBC-468D-B6FC-7067-3FB254BA55FC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=b764a4154025cd5de32721bc67948255%7Cf543552ffec14908837be3572914ac90%7C06f1cd3d-266f-46e9-b896-fa7783dbd39b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.02.01-09.47.36:744][283]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.02.01-09.47.36:745][283]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.02.01-09.47.36:765][283]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.02.01-09.47.36:766][283]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.02.01-09.47.36:766][283]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.02.01-09.47.36:766][283]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.02.01-09.47.36:767][283]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.02.01-09.47.36:767][283]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.02.01-09.47.36:767][283]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.02.01-09.47.36:767][283]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.02.01-09.47.36:767][283]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.01-09.47.36:767][283]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.01-09.47.36:782][283]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.01-09.47.36:782][283]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.01-09.47.36:816][283]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.01-09.47.36:816][283]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.01-09.47.36:816][283]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.01-09.47.36:816][283]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.01-09.47.36:818][283]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.01-09.47.36:834][283]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.01-09.47.36:837][283]LogD3D11RHI: Shutdown
+[2020.02.01-09.47.36:837][283]LogD3D11RHI: CleanupD3DDevice
+[2020.02.01-09.47.36:849][283]LogExit: Exiting.
+[2020.02.01-09.47.36:871][283]Log file closed, 02/01/20 10:47:36
